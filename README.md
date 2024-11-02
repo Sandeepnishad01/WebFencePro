@@ -20,8 +20,7 @@
 ## Screenshots
 
 ### Landing Page
-![Landing Page](path-to-your-screenshot)
-
+(https://github.com/Sandeepnishad01/WebFencePro/issues/1#issue-2630454383)
 ### User Dashboard
 ![Dashboard](path-to-your-screenshot)
 
